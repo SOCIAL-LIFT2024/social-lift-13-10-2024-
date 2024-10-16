@@ -69,10 +69,6 @@
 
     .owners {
         font-size: 13px;
-}
-
-    .circle p {
-        font-size: 10px;
-        margin-top: 0;
+        text-decoration: none;
     }
 }
