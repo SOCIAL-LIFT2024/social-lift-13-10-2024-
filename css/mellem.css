@@ -71,4 +71,8 @@
     .hero p {
         font-size: 1.2rem;
     }
+    .social-links img {
+    width: 30%;
+    height: 30%;
+    }
 }
